@@ -1,0 +1,6 @@
+{
+  "name": "ShopPilot AI",
+  "description": "Advanced AI-powered shopping agent with intelligent product discovery, Gemini tool calling, comparisons, risk analysis, and PayPal sandbox checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
